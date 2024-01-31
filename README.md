@@ -3,6 +3,7 @@ Internet of things (hydroponics)
 
 Design In : https://www.circuito.io/app?components=8653,9443,11574,133979,164792,200000,220687,466193
 
+Board Micro : NodeMCU ESP8266 V3
 Analog pin = Soil Moiseture Module = A0
 BluePin = RGB Light Module = D7 
 Relay1 = Relay Module = D3 -> Water Pump
